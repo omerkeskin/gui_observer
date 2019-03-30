@@ -18,6 +18,7 @@ public class Main {
 	JFrame frame;
 	
 	public static void main(String[] args) {
+		System.out.println("hello");
 		Main ex = new Main();
 		ex.go();
 	}
